@@ -1,2 +1,2 @@
-# meuralnetwork
+# neuralnetwork
 neural network from scratcch
